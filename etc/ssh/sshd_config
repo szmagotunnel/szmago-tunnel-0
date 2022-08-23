@@ -10,7 +10,7 @@
 # possible, but leave them commented.  Uncommented options override the
 # default value.
 
-Include /etc/ssh/sshd_config.d/*.conf
+#Include /etc/ssh/sshd_config.d/*.conf
 
 Port 8022
 #AddressFamily any
@@ -56,7 +56,7 @@ HostKey /app/root/etc/ssh/ssh_host_ed25519_key
 
 # To disable tunneled clear text passwords, change to no here!
 #PasswordAuthentication yes
-PermitEmptyPasswords yes
+#PermitEmptyPasswords no
 
 # Change to yes to enable challenge-response passwords (beware issues with
 # some PAM modules and threads)
@@ -83,7 +83,7 @@ ChallengeResponseAuthentication no
 # If you just want the PAM account and session checks to run without
 # PAM authentication, then enable this but set PasswordAuthentication
 # and ChallengeResponseAuthentication to 'no'.
-UsePAM yes
+UsePAM no
 
 #AllowAgentForwarding yes
 #AllowTcpForwarding yes
