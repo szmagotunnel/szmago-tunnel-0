@@ -1,0 +1,62 @@
+2022-08-22T19:14:22+0000 [piqueserver.server#info] piqueserver started on Mon Aug 22 19:14:22 2022
+2022-08-22T19:14:22+0000 [stderr#error] Traceback (most recent call last):
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/./env/bin/piqueserver", line 11, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     load_entry_point('piqueserver==1.0.0', 'console_scripts', 'piqueserver')()
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/piqueserver/run.py", line 251, in main
+2022-08-22T19:14:22+0000 [stderr#error]     server.run()
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/piqueserver/server.py", line 974, in run
+2022-08-22T19:14:22+0000 [stderr#error]     protocol_class(interface, config.get_dict())
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/piqueserver/scripts/disco.py", line 45, in __init__
+2022-08-22T19:14:22+0000 [stderr#error]     protocol.__init__(self, *arg, **kw)
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/piqueserver/server.py", line 392, in __init__
+2022-08-22T19:14:22+0000 [stderr#error]     from piqueserver.statusserver import StatusServer
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/piqueserver/statusserver.py", line 24, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     from jinja2 import Environment, PackageLoader
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/jinja2/__init__.py", line 12, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     from .environment import Environment
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/jinja2/environment.py", line 25, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     from .defaults import BLOCK_END_STRING
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/jinja2/defaults.py", line 3, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     from .filters import FILTERS as DEFAULT_FILTERS  # noqa: F401
+2022-08-22T19:14:22+0000 [stderr#error]   File "/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/jinja2/filters.py", line 13, in <module>
+2022-08-22T19:14:22+0000 [stderr#error]     from markupsafe import soft_unicode
+2022-08-22T19:14:22+0000 [stderr#error] ImportError: cannot import name 'soft_unicode' from 'markupsafe' (/home/menel/proj/heroku/szmago-aos-0/opt/piqueserver-venv/env/lib/python3.9/site-packages/markupsafe/__init__.py)
+2022-08-22T19:15:38+0000 [piqueserver.server#info] piqueserver started on Mon Aug 22 19:15:38 2022
+2022-08-22T19:15:38+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-22T19:15:38+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-22T19:15:38+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-22T19:15:38+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-22T19:15:38+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-22T19:15:38+0000 [stdout#info]              'extension_time': '15min',
+2022-08-22T19:15:38+0000 [stdout#info]              'percentage': 80,
+2022-08-22T19:15:38+0000 [stdout#info]              'player_driven': False,
+2022-08-22T19:15:38+0000 [stdout#info]              'public_votes': True}}
+2022-08-22T19:15:38+0000 [piqueserver.server#info] Started server...
+2022-08-22T19:15:38+0000 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2022-08-22T19:15:38+0000 [piqueserver.map#info] Generating map 'classicgen #852674283'...
+2022-08-22T19:15:39+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-22T19:15:39+0000 [piqueserver.map#info] Map loaded successfully. (took 1.04s)
+2022-08-22T19:15:39+0000 [piqueserver.server#info] Server public ip address: 78.28.55.192:32887
+2022-08-22T19:15:39+0000 [piqueserver.server#info] Public aos identifier: aos://3224837198:32887
+2022-08-22T19:15:49+0000 [-] Received SIGINT, shutting down.
+2022-08-22T19:19:55+0000 [piqueserver.server#info] piqueserver started on Mon Aug 22 19:19:55 2022
+2022-08-22T19:19:55+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-22T19:19:55+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-22T19:19:55+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-22T19:19:55+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-22T19:19:55+0000 [stdout#info]  'status_server': {'logging': True, 'port': 32886},
+2022-08-22T19:19:55+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-22T19:19:55+0000 [stdout#info]              'extension_time': '15min',
+2022-08-22T19:19:55+0000 [stdout#info]              'percentage': 80,
+2022-08-22T19:19:55+0000 [stdout#info]              'player_driven': False,
+2022-08-22T19:19:55+0000 [stdout#info]              'public_votes': True}}
+2022-08-22T19:19:55+0000 [piqueserver.server#info] Started server...
+2022-08-22T19:19:55+0000 [piqueserver.server#info] Retrieving external IP from 'https://services.buildandshoot.com/getip' to generate server identifier.
+2022-08-22T19:19:55+0000 [piqueserver.map#info] Generating map 'classicgen #1183881368'...
+2022-08-22T19:19:57+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-22T19:19:57+0000 [piqueserver.map#info] Map loaded successfully. (took 1.04s)
+2022-08-22T19:19:57+0000 [piqueserver.server#info] Server public ip address: 78.28.55.192:8081
+2022-08-22T19:19:57+0000 [piqueserver.server#info] Public aos identifier: aos://3224837198:8081
+2022-08-22T19:20:15+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-22T19:20:42+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-22T19:20:48+0000 [-] Received SIGINT, shutting down.
