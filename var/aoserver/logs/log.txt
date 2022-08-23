@@ -60,3 +60,24 @@
 2022-08-22T19:20:15+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
 2022-08-22T19:20:42+0000 [piqueserver.player#info] raccoon disconnected!
 2022-08-22T19:20:48+0000 [-] Received SIGINT, shutting down.
+2022-08-23T10:53:26+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 10:53:26 2022
+2022-08-23T10:53:26+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T10:53:26+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T10:53:26+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T10:53:26+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T10:53:26+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T10:53:26+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T10:53:26+0000 [stdout#info]              'percentage': 80,
+2022-08-23T10:53:26+0000 [stdout#info]              'player_driven': False,
+2022-08-23T10:53:26+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T10:53:26+0000 [piqueserver.server#info] Started server...
+2022-08-23T10:53:26+0000 [piqueserver.map#info] Generating map 'classicgen #846711681'...
+2022-08-23T10:53:26+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T10:53:28+0000 [piqueserver.map#info] Map loaded successfully. (took 1.62s)
+2022-08-23T10:57:14+0000 [piqueserver.player#info] 127.0.0.1 disconnected
+2022-08-23T11:02:54+0000 [piqueserver.player#info] 127.0.0.1 disconnected
+2022-08-23T11:03:37+0000 [piqueserver.player#info] raccoon (IP 127.0.0.1, ID 0) entered the game!
+2022-08-23T11:03:45+0000 [piqueserver.commands#info] <raccoon> /ping  -> Your ping is 24 ms. Lower ping is better!
+2022-08-23T11:07:52+0000 [-] Received SIGINT, shutting down.
+2022-08-23T11:07:52+0000 [piqueserver.server#info] disconnecting players
+2022-08-23T11:07:55+0000 [piqueserver.player#info] raccoon disconnected!

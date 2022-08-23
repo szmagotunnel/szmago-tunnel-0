@@ -1,0 +1,11 @@
+#!/bin/sh
+
+export ROOT=/app/root
+
+mypath=$ROOT/bin
+export PATH=$mypath:$PATH
+
+export HOME=$ROOT/menel
+
+cd $HOME
+bash
