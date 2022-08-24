@@ -80,7 +80,8 @@ scripts = [
  "piqueserver.scripts.passreload",
  "piqueserver.scripts.blockinfo",
  "piqueserver.scripts.squad",
- "piqueserver.scripts.afk"
+ "piqueserver.scripts.afk",
+ "piqueserver.scripts.airstrike2"
 ]
 
 # number of /login attempts allowed before players are auto-kicked (default: 1)

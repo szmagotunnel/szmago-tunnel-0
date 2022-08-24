@@ -81,3 +81,313 @@
 2022-08-23T11:07:52+0000 [-] Received SIGINT, shutting down.
 2022-08-23T11:07:52+0000 [piqueserver.server#info] disconnecting players
 2022-08-23T11:07:55+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:18:54+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:18:54 2022
+2022-08-23T15:18:54+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:18:54+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:18:54+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:18:54+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:18:54+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:18:54+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:18:54+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:18:54+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:18:54+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:18:54+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:18:54+0000 [piqueserver.map#info] Generating map 'classicgen #19202725'...
+2022-08-23T15:18:57+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:18:57+0000 [piqueserver.map#info] Map loaded successfully. (took 2.99s)
+2022-08-23T15:19:07+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:19:15+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:25:24+0000 [piqueserver.commands#info] <raccoon> /kill raccoon -> You can't do that: you can't kill other players\nUsage: /kill [target]
+2022-08-23T15:25:28+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T15:29:53+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:30:39+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:30:41+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:30:41 2022
+2022-08-23T15:30:41+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:30:41+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:30:41+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:30:41+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:30:41+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:30:41+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:30:41+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:30:41+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:30:41+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:30:41+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:30:41+0000 [piqueserver.map#info] Generating map 'classicgen #1784038992'...
+2022-08-23T15:30:44+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:30:44+0000 [piqueserver.map#info] Map loaded successfully. (took 3.21s)
+2022-08-23T15:30:45+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:30:49+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:32:06+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:35:14+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:35:16+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:35:16 2022
+2022-08-23T15:35:17+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:35:17+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:35:17+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:35:17+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:35:17+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:35:17+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:35:17+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:35:17+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:35:17+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:35:17+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:35:17+0000 [piqueserver.map#info] Generating map 'classicgen #882928637'...
+2022-08-23T15:35:20+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:35:20+0000 [piqueserver.map#info] Map loaded successfully. (took 3.21s)
+2022-08-23T15:35:23+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:35:30+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:36:14+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T15:37:04+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:37:04+0000 [piqueserver.server#info] disconnecting players
+2022-08-23T15:37:07+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:37:38+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:37:38 2022
+2022-08-23T15:37:38+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:37:38+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:37:38+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:37:38+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:37:38+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:37:38+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:37:38+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:37:38+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:37:38+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:37:38+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:37:38+0000 [piqueserver.map#info] Generating map 'classicgen #1869681332'...
+2022-08-23T15:37:42+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:37:42+0000 [piqueserver.map#info] Map loaded successfully. (took 3.15s)
+2022-08-23T15:37:42+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:37:46+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:39:40+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:39:40+0000 [piqueserver.server#info] disconnecting players
+2022-08-23T15:39:42+0000 [piqueserver.commands#info] <Console> /\x1b[A  -> Unknown command
+2022-08-23T15:39:42+0000 [stdout#info] Unknown command
+2022-08-23T15:39:43+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:39:50+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:39:50 2022
+2022-08-23T15:39:50+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:39:50+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:39:50+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:39:50+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:39:50+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:39:50+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:39:50+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:39:50+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:39:50+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:39:50+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:39:50+0000 [piqueserver.map#info] Generating map 'classicgen #1360529545'...
+2022-08-23T15:39:54+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:39:54+0000 [piqueserver.map#info] Map loaded successfully. (took 3.13s)
+2022-08-23T15:39:54+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:39:57+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:41:29+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T15:42:38+0000 [piqueserver.commands#info] <raccoon> /kill;  -> Unknown command
+2022-08-23T15:42:40+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T15:44:28+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:44:28+0000 [piqueserver.server#info] disconnecting players
+2022-08-23T15:44:31+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:44:33+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:44:33 2022
+2022-08-23T15:44:34+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:44:34+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:44:34+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:44:34+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:44:34+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:44:34+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:44:34+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:44:34+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:44:34+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:44:34+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:44:34+0000 [piqueserver.map#info] Generating map 'classicgen #1003277876'...
+2022-08-23T15:44:37+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:44:37+0000 [piqueserver.map#info] Map loaded successfully. (took 3.11s)
+2022-08-23T15:44:37+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:44:40+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:45:52+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:45:54+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:45:56+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:45:56 2022
+2022-08-23T15:45:56+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:45:56+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:45:56+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:45:56+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:45:56+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:45:56+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:45:56+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:45:56+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:45:56+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:45:56+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:45:56+0000 [piqueserver.map#info] Generating map 'classicgen #663322488'...
+2022-08-23T15:46:00+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:46:00+0000 [piqueserver.map#info] Map loaded successfully. (took 3.23s)
+2022-08-23T15:46:00+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:46:03+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:46:05+0000 [stderr#error] Traceback (most recent call last):
+2022-08-23T15:46:05+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/protocol.py", line 171, in update
+2022-08-23T15:46:05+0000 [stderr#error]     self.data_received(peer, event.packet)
+2022-08-23T15:46:05+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/piqueserver/server.py", line 829, in data_received
+2022-08-23T15:46:05+0000 [stderr#error]     ServerProtocol.data_received(self, peer, packet)
+2022-08-23T15:46:05+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/protocol.py", line 123, in data_received
+2022-08-23T15:46:05+0000 [stderr#error]     connection.loader_received(packet)
+2022-08-23T15:46:05+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/player.py", line 153, in loader_received
+2022-08-23T15:46:05+0000 [stderr#error]     call_packet_handler(self, loader)
+2022-08-23T15:46:05+0000 [stderr#error]   File "pyspades/packet.pyx", line 131, in pyspades.packet.call_packet_handler
+2022-08-23T15:46:05+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/player.py", line 432, in on_grenade_recieved
+2022-08-23T15:46:05+0000 [stderr#error]     if self.on_grenade(contained.value) == False:
+2022-08-23T15:46:05+0000 [stderr#error]   File "var/aoserver/scripts/spadenadefixlol.py", line 19, in on_grenade
+2022-08-23T15:46:05+0000 [stderr#error]     self.send_chat('GRENADE: '+str(self.was_spade) + '; '+str(self.world_object.secondary_fire))
+2022-08-23T15:46:05+0000 [stderr#error] AttributeError: 'SpadenadeConnection' object has no attribute 'was_spade'
+2022-08-23T15:47:48+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:47:52+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:47:54+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:47:54 2022
+2022-08-23T15:47:54+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:47:54+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:47:54+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:47:54+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:47:54+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:47:54+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:47:54+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:47:54+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:47:54+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:47:54+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:47:54+0000 [piqueserver.map#info] Generating map 'classicgen #1715222277'...
+2022-08-23T15:47:57+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:47:57+0000 [piqueserver.map#info] Map loaded successfully. (took 3.22s)
+2022-08-23T15:47:58+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:48:02+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:48:53+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T15:49:31+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:51:02+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:51:04+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:51:04 2022
+2022-08-23T15:51:05+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:51:05+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:51:05+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:51:05+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:51:05+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:51:05+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:51:05+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:51:05+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:51:05+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:51:05+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:51:05+0000 [piqueserver.map#info] Generating map 'classicgen #1642457412'...
+2022-08-23T15:51:08+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:51:08+0000 [piqueserver.map#info] Map loaded successfully. (took 3.17s)
+2022-08-23T15:51:08+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:51:16+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:51:21+0000 [piqueserver.player#info] 'raccoon' logged in as admin
+2022-08-23T15:51:21+0000 [piqueserver.commands#info] <raccoon> /login start11
+2022-08-23T15:51:24+0000 [piqueserver.commands#info] <raccoon> /rapid 
+2022-08-23T15:51:32+0000 [piqueserver.commands#info] <raccoon> /rapid 
+2022-08-23T15:51:50+0000 [piqueserver.commands#info] <raccoon> /rapid 
+2022-08-23T15:52:02+0000 [piqueserver.commands#info] <raccoon> /rapid 
+2022-08-23T15:52:25+0000 [piqueserver.commands#info] <raccoon> /rapid 
+2022-08-23T15:53:44+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:53:56+0000 [-] Received SIGINT, shutting down.
+2022-08-23T15:53:58+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 15:53:58 2022
+2022-08-23T15:53:58+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T15:53:58+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T15:53:58+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T15:53:58+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T15:53:58+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T15:53:58+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T15:53:58+0000 [stdout#info]              'percentage': 80,
+2022-08-23T15:53:58+0000 [stdout#info]              'player_driven': False,
+2022-08-23T15:53:58+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T15:53:58+0000 [piqueserver.server#info] Started server...
+2022-08-23T15:53:58+0000 [piqueserver.map#info] Generating map 'classicgen #640203342'...
+2022-08-23T15:54:02+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T15:54:02+0000 [piqueserver.map#info] Map loaded successfully. (took 3.19s)
+2022-08-23T15:54:02+0000 [stderr#error] Traceback (most recent call last):
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/protocol.py", line 167, in update
+2022-08-23T15:54:02+0000 [stderr#error]     self.on_connect(peer)
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/protocol.py", line 111, in on_connect
+2022-08-23T15:54:02+0000 [stderr#error]     connection.on_connect()
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/piqueserver/scripts/afk.py", line 116, in on_connect
+2022-08-23T15:54:02+0000 [stderr#error]     return connection.on_connect(self)
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/piqueserver/player.py", line 76, in on_connect
+2022-08-23T15:54:02+0000 [stderr#error]     ServerConnection.on_connect(self)
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/player.py", line 143, in on_connect
+2022-08-23T15:54:02+0000 [stderr#error]     self._connection_ack()
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/player.py", line 1041, in _connection_ack
+2022-08-23T15:54:02+0000 [stderr#error]     self._send_connection_data()
+2022-08-23T15:54:02+0000 [stderr#error]   File "/home/menel/.local/lib/python3.9/site-packages/pyspades/player.py", line 1087, in _send_connection_data
+2022-08-23T15:54:02+0000 [stderr#error]     ctf_data.team1_score = blue.score
+2022-08-23T15:54:02+0000 [stderr#error]   File "pyspades/contained.pyx", line 462, in pyspades.contained.CTFState.team1_score.__set__
+2022-08-23T15:54:02+0000 [stderr#error] TypeError: an integer is required
+2022-08-23T15:54:02+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T15:54:08+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T15:54:14+0000 [piqueserver.player#info] 'raccoon' logged in as admin
+2022-08-23T15:54:14+0000 [piqueserver.commands#info] <raccoon> /login start11
+2022-08-23T15:54:23+0000 [piqueserver.commands#info] <raccoon> /a 
+2022-08-23T15:54:28+0000 [piqueserver.commands#info] <raccoon> /commands  -> Available commands: time, resetgame, lock, unlock, switch, setbalance, togglebuild, togglekill, toggleteamkill, globalchat, timelimit, fog, streak, ping, rules, commands, help, mapname, showrotation, map, rotation, rotationadd, revertrotation, advancemap, kick, ban, hban, dban, wban, pban, banip, unban, undoban, say, mute, unmute, ip, whowas, invisible, godsilent, god, godbuild, unstick, moves, move, where, teleport, tpsilent, fly, client, weapon, intel, kill, heal, deaf, servername, server, version, scripts, togglemaster, login, pm, admin, rollmap, rollback, rollbackcancel, protect, disco, votekick, cancel, y, tvk, trust, ratio, reloadconfig, griefcheck, follow, squad, kickafk, airstrike, givestrike
+2022-08-23T15:54:42+0000 [piqueserver.commands#info] <raccoon> /airstrike 
+2022-08-23T15:54:47+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T15:55:20+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T15:55:22+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T15:55:23+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T15:57:11+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T15:57:15+0000 [-] Received SIGINT, shutting down.
+2022-08-23T16:40:52+0000 [piqueserver.server#info] piqueserver started on Tue Aug 23 16:40:52 2022
+2022-08-23T16:40:53+0000 [piqueserver.server#info] advancing to map 'classicgen'
+2022-08-23T16:40:53+0000 [piqueserver.server#warn] The following config items are not used:
+2022-08-23T16:40:53+0000 [stdout#info] {'savemap': {'load_saved_map': False},
+2022-08-23T16:40:53+0000 [stdout#info]  'ssh': {'users': {}},
+2022-08-23T16:40:53+0000 [stdout#info]  'votemap': {'autoschedule': False,
+2022-08-23T16:40:53+0000 [stdout#info]              'extension_time': '15min',
+2022-08-23T16:40:53+0000 [stdout#info]              'percentage': 80,
+2022-08-23T16:40:53+0000 [stdout#info]              'player_driven': False,
+2022-08-23T16:40:53+0000 [stdout#info]              'public_votes': True}}
+2022-08-23T16:40:53+0000 [piqueserver.server#info] Started server...
+2022-08-23T16:40:53+0000 [piqueserver.map#info] Generating map 'classicgen #847922299'...
+2022-08-23T16:40:56+0000 [piqueserver.server#info] starting ban vacuum with 0 bans
+2022-08-23T16:40:56+0000 [piqueserver.map#info] Map loaded successfully. (took 2.92s)
+2022-08-23T16:40:56+0000 [piqueserver.release#warn] could not fetch latest version: Cannot connect to host api.github.com:443 ssl:default [Temporary failure in name resolution]
+2022-08-23T16:41:09+0000 [piqueserver.player#info] raccoon (IP 192.168.122.1, ID 0) entered the game!
+2022-08-23T16:41:23+0000 [piqueserver.player#info] <raccoon>                                                                                                                                                                                         lmao
+2022-08-23T16:41:34+0000 [piqueserver.player#info] <raccoon>                                                                                                                                                                                                                                      penis
+2022-08-23T16:41:58+0000 [piqueserver.player#info] <raccoon>                                                                                                                                                                                                     You've been visited by a flying nigger
+2022-08-23T16:42:07+0000 [piqueserver.player#info] <raccoon> lol
+2022-08-23T16:43:02+0000 [piqueserver.player#info] <raccoon>                                                                                                                                                                                                       You're muted by Admin for 365 days.
+2022-08-23T16:43:47+0000 [piqueserver.player#info] <raccoon>                                                                                                                                                                                                      You've been muted for 1 day.
+2022-08-23T16:47:48+0000 [piqueserver.commands#info] <raccoon> /givestrike  -> You can't use this command
+2022-08-23T16:47:53+0000 [piqueserver.player#info] 'raccoon' logged in as admin
+2022-08-23T16:47:53+0000 [piqueserver.commands#info] <raccoon> /login start11
+2022-08-23T16:47:54+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:48:17+0000 [piqueserver.commands#info] <raccoon> /a a5
+2022-08-23T16:48:24+0000 [piqueserver.commands#info] <raccoon> /airstrike a5
+2022-08-23T16:48:34+0000 [piqueserver.commands#info] <raccoon> /airstrike A5
+2022-08-23T16:49:11+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:50:47+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:51:17+0000 [piqueserver.commands#info] <raccoon> /airstrike 
+2022-08-23T16:51:19+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:51:21+0000 [piqueserver.commands#info] <raccoon> /airstrike 
+2022-08-23T16:51:26+0000 [piqueserver.commands#info] <raccoon> /airstrike A 5
+2022-08-23T16:51:30+0000 [piqueserver.commands#info] <raccoon> /lmao xd -> Unknown command
+2022-08-23T16:51:48+0000 [piqueserver.commands#info] <raccoon> /lmao xd -> Unknown command
+2022-08-23T16:51:51+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:52:39+0000 [piqueserver.commands#info] <raccoon> /givestrike 
+2022-08-23T16:53:09+0000 [piqueserver.commands#info] <raccoon> /give  -> Unknown command
+2022-08-23T16:53:12+0000 [piqueserver.commands#info] <raccoon> /fly 
+2022-08-23T16:57:29+0000 [piqueserver.commands#info] <raccoon> /fly 
+2022-08-23T16:57:36+0000 [piqueserver.commands#info] <raccoon> /fly 
+2022-08-23T16:57:42+0000 [piqueserver.commands#info] <raccoon> /fly 
+2022-08-23T16:59:15+0000 [piqueserver.commands#info] <raccoon> /thirdperson  -> Unknown command
+2022-08-23T17:19:19+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T17:20:15+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T17:21:46+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T17:23:39+0000 [piqueserver.commands#info] <raccoon> /kill 
+2022-08-23T17:26:00+0000 [piqueserver.player#info] raccoon1 (IP 192.168.122.1, ID 1) entered the game!
+2022-08-23T17:26:17+0000 [piqueserver.commands#info] <raccoon> /tp raccoon1
+2022-08-23T17:28:43+0000 [piqueserver.player#info] <raccoon1> sdfsdaf
+2022-08-23T17:30:34+0000 [piqueserver.player#info] 'raccoon1' logged in as admin
+2022-08-23T17:30:34+0000 [piqueserver.commands#info] <raccoon1> /login start11
+2022-08-23T17:30:42+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:34:03+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:34:13+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:34:52+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:02+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:10+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:12+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:14+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:15+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:35:18+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:36:42+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:39:20+0000 [piqueserver.commands#info] <raccoon1> /tp raccoon raccoon1
+2022-08-23T17:40:43+0000 [piqueserver.commands#info] <raccoon> /tp raccoon1
+2022-08-23T17:41:06+0000 [piqueserver.player#info] raccoon disconnected!
+2022-08-23T17:41:11+0000 [piqueserver.player#info] raccoon1 disconnected!
+2022-08-23T17:41:16+0000 [-] Received SIGINT, shutting down.
