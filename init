@@ -3,8 +3,10 @@
 export ROOT=/app/root
 
 mypath=$ROOT/bin
-export PATH=$mypath:$PATH
+mylib=$ROOT/lib
 
+export PATH=$mypath:$PATH
+export LD_LIBRARY_PATH=mylib:$LD_LIBRARY_PATH
 export HOME=$ROOT/menel
 
 cd $HOME
